@@ -24,7 +24,3 @@ To create an optimized production build:
 ```bash
 npm run build
 ```
-
----
-
-Let me know if you need further adjustments!
