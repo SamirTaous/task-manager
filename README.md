@@ -1,6 +1,6 @@
-# Task Tracker
+# Task Tracker - learning React.js
 
-A simple task tracker web app built with React.js. You can add tasks with a time, view a list of tasks, and set reminders to highlight important tasks.
+A simple task tracker web app built with React.js for learning purposes. You can add tasks with a time, view a list of tasks, and set reminders to highlight important tasks.
 
 ## Features
 
